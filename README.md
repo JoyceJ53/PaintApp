@@ -1,10 +1,10 @@
 ## Overview
 
-**Paint App**:
+**Project Title**: Paint App
 
-**Simple android drawing app**:
+**Project Description**: Simple android drawing app
 
-**To allow the user to draw**:
+**Project Goals**: To allow the user to draw
 
 ## Instructions for Build and Use
 
